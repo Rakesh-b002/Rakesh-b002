@@ -1,31 +1,224 @@
-<h1 align="center">Hi 👋, I'm Rakesh B</h1>
-<h3 align="center">A passionate Cyber security Student from India</h3>
+👋 Hi, I'm Rakesh B
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakesh-b002&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh-b002" /> </p>
+Cybersecurity Student | Security Researcher in Progress | Builder
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakesh-b002" alt="rakesh-b002" /></a> </p>
+I'm a cybersecurity student who enjoys turning security concepts into
+practical projects.
+My interests sit at the intersection of Cybersecurity, AI/ML, Network
+Security, Threat Detection, and Cloud Security.
 
-- 🔭 I’m currently working on **AI-based Honeypot attack detection**
+I started with hands-on security monitoring and gradually moved toward
+building intelligent and energy-efficient security systems. Right now,
+I'm exploring how AI can make defensive security tools more adaptive and
+practical.
 
-- 🌱 I’m currently learning **AI/ML, Network Security & Cloud Security**
+🔐 My goal: Build security solutions that don't just detect
+attacks --- they help us understand them.
 
-- 👯 I’m looking to collaborate on **Cybersecurity, AI/ML & Threat Detection Projects**
+🧑‍💻 About Me
 
-- 🤝 I’m looking for help with **Honeypot Project**
+🎓 B.Tech student specializing in Cybersecurity
 
-- 💬 Ask me about **SOC, SIEM, IDS, Honeypots & Network Security**
+🔭 Currently working on AI-Based Honeypot Attack Detection
 
-- 📫 How to reach me **rakesh.122605@gmail.com**
+🧠 Exploring AI/ML for Cybersecurity
 
-- ⚡ Fun fact **I enjoy turning cybersecurity problems into practical projects.**
+🛡️ Interested in SOC, SIEM, IDS, Honeypots & Threat Detection
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+☁️ Hands-on experience with Azure security monitoring
+
+⚡ Working on energy-efficient intrusion detection using SNNs
+
+🤝 Open to collaborating on Cybersecurity, AI Security & Research
+Projects
+
+🎯 Interested in projects that can become real-world tools,
+research, or publishable work
+
+📫 Reach me at: rakesh.122605@gmail.com
+
+🚀 What I'm Building
+
+🤖 AI-Based Honeypot Attack Detection
+
+A security project focused on using AI to analyze attacker behavior in
+honeypot environments and improve attack detection.
+
+Focus: Honeypots • Threat Detection • AI/ML • Cybersecurity
+
+⚡ SNN-Based Intrusion Detection System
+
+Exploring Spiking Neural Networks (SNNs) for intrusion detection
+with an emphasis on reducing computational/energy requirements.
+
+Focus: SNN • IDS • Machine Learning • Network Security • Energy
+Efficiency
+
+🛰️ SOC & SIEM Lab
+
+Built a hands-on security monitoring environment using Azure,
+collecting and visualizing security logs to understand how a SOC detects
+and investigates suspicious activity.
+
+Focus: SOC • SIEM • Azure • Log Analysis • Security Monitoring
+
+🛠️ Tech Stack
+
+🔐 Cybersecurity
+
+
+
+
+
+
+
+🤖 AI / Machine Learning
+
+
+
+
+
+
+☁️ Cloud & Tools
+
+
+
+
+
+
+🏆 Achievements & Highlights
+
+Add your verified awards, certifications, hackathon ranks,
+publications, or competition results here.
+
+🛡️ Built multiple hands-on cybersecurity projects spanning SOC,
+SIEM, IDS and honeypots
+
+⚡ Explored SNN-based intrusion detection with an
+energy-efficiency focus
+
+🤖 Developing an AI-based honeypot attack detection system
+
+☁️ Built a practical Azure-based security monitoring/SOC
+environment
+
+🔬 Interested in converting cybersecurity projects into research
+and real-world solutions
+
+📌 Add your strongest achievements here
+
+🥇 [Hackathon / Competition] --- [Position / Award]
+
+📜 [Certification] --- [Issuing Organization]
+
+📄 [Research Paper / Publication] --- [Conference / Journal]
+
+🏅 [Award / Recognition] --- [Details]
+
+📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>{=html}
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>{=html}
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+<p align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakesh-b002&show_icons=true&locale=en&layout=compact" alt="rakesh-b002" /></p>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />{=html}
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakesh-b002&show_icons=true&locale=en" alt="rakesh-b002" /></p>
+</p>
+
+🧩 Featured Areas
+
+Cybersecurity
+├── SOC / SIEM
+├── Network Security
+├── IDS / IPS
+├── Honeypots
+└── Threat Detection
+
+AI + Security
+├── Machine Learning
+├── Deep Learning
+├── Spiking Neural Networks
+└── AI Security
+
+Cloud
+└── Microsoft Azure
+
+🔬 What I'm Interested In
+
+I'm particularly interested in problems where AI meets defensive
+security:
+
+🧠 Intelligent threat detection
+
+🤖 Security for AI agents and AI systems
+
+🪤 Adaptive honeypots
+
+🌐 Network intrusion detection
+
+⚡ Energy-efficient security systems
+
+☁️ Cloud security monitoring
+
+🔎 Attacker behavior analysis
+
+🚨 SOC automation
+
+📈 Currently Learning
+
+[████████████████░░░░] AI/ML for Cybersecurity
+[███████████████░░░░░] Network Security
+[██████████████░░░░░░] Cloud Security
+[████████████░░░░░░░░] Security Research
+
+💡 My Approach
+
+I like learning by building.
+
+Instead of stopping at:
+
+"I know how an IDS works."
+
+I try to move toward:
+
+"Can I build one, test it, measure it, find its weaknesses, and
+improve it?"
+
+That mindset is what drives most of my projects.
+
+🌱 Open to Collaborate
+
+I'm interested in working with people on:
+
+Cybersecurity × AI/ML × Research × Real-world Problems
+
+If you're building something interesting in this space, feel free to
+reach out.
+
+📫 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">{=html}
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>{=html}
+</a>{=html} <a href="mailto:rakesh.122605@gmail.com">{=html}
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>{=html}
+</a>{=html}
+
+</p>
+
+⚡ Fun Fact
+
+I started with cybersecurity concepts --- now I keep trying to turn
+them into working projects. 🔐
+
+<p align="center">
+
+<i>{=html}"Build. Break. Learn. Secure."</i>{=html}
+
+</p>
