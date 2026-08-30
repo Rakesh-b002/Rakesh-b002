@@ -1,224 +1,37 @@
-👋 Hi, I'm Rakesh B
+Hi, I'm Rakesh B
 
-Cybersecurity Student | Security Researcher in Progress | Builder
+Cybersecurity Student · Building AI-Driven Defensive Security Tools
 
-I'm a cybersecurity student who enjoys turning security concepts into
-practical projects.
-My interests sit at the intersection of Cybersecurity, AI/ML, Network
-Security, Threat Detection, and Cloud Security.
+Second-year B.Tech student specializing in Cybersecurity at Dayananda Sagar University, Bengaluru. I work at the intersection of network security, threat detection, and applied ML, focusing on making defensive tools more adaptive and easier to understand — not just "it flagged an attack," but why.
 
-I started with hands-on security monitoring and gradually moved toward
-building intelligent and energy-efficient security systems. Right now,
-I'm exploring how AI can make defensive security tools more adaptive and
-practical.
+📫 rakesh.122605@gmail.com · 🔗 github.com/Rakesh-b002
 
-🔐 My goal: Build security solutions that don't just detect
-attacks --- they help us understand them.
+What I'm Working On
+🍯 Adaptive IoT Honeypot with ML-Based Anomaly Detection
 
-🧑‍💻 About Me
+A Cowrie-based SSH/Telnet honeypot (inspired by the AIIPot paper) that logs attacker sessions to MongoDB and analyzes behavior with two Isolation Forest models — one behavioral, one semantic (sentence-transformer embeddings + PCA) — plus DBSCAN clustering to group attacker sessions by tactic.
 
-🎓 B.Tech student specializing in Cybersecurity
-
-🔭 Currently working on AI-Based Honeypot Attack Detection
-
-🧠 Exploring AI/ML for Cybersecurity
-
-🛡️ Interested in SOC, SIEM, IDS, Honeypots & Threat Detection
-
-☁️ Hands-on experience with Azure security monitoring
-
-⚡ Working on energy-efficient intrusion detection using SNNs
-
-🤝 Open to collaborating on Cybersecurity, AI Security & Research
-Projects
-
-🎯 Interested in projects that can become real-world tools,
-research, or publishable work
-
-📫 Reach me at: rakesh.122605@gmail.com
-
-🚀 What I'm Building
-
-🤖 AI-Based Honeypot Attack Detection
-
-A security project focused on using AI to analyze attacker behavior in
-honeypot environments and improve attack detection.
-
-Focus: Honeypots • Threat Detection • AI/ML • Cybersecurity
-
+Behavioral feature extraction: 9 features including Shannon entropy, unique-command ratio, and download/execute detection
+Phase 1 (honeypot + logging) and Phase 2 (feature extraction) complete, with a full unit test suite passing
+Stack: Python, Cowrie, MongoDB, scikit-learn, Sentence-Transformers
 ⚡ SNN-Based Intrusion Detection System
 
-Exploring Spiking Neural Networks (SNNs) for intrusion detection
-with an emphasis on reducing computational/energy requirements.
+Exploring Spiking Neural Networks as a lower-power alternative to conventional deep learning for network intrusion detection, trained on the TON_IoT and CIC-IDS2018 datasets.
 
-Focus: SNN • IDS • Machine Learning • Network Security • Energy
-Efficiency
+Focus: energy-efficient inference, IDS, network security
+🛰️ Azure SOC & SIEM Lab
 
-🛰️ SOC & SIEM Lab
+A hands-on security monitoring environment built in Azure to practice log collection, detection engineering, and incident investigation the way a SOC analyst would.
 
-Built a hands-on security monitoring environment using Azure,
-collecting and visualizing security logs to understand how a SOC detects
-and investigates suspicious activity.
+Focus: Microsoft Sentinel, log analysis, detection tuning
+🏗️ NirmanAI — Hack2Skill BRICS Innovation Hackathon
 
-Focus: SOC • SIEM • Azure • Log Analysis • Security Monitoring
+An explainable AI decision-support platform for public infrastructure prioritization, built for the hackathon's Digital Public Good challenge. Citizen-reported issues (initially potholes, extensible to broader civic infrastructure) are fused with population density, road-safety data, and public investment plans into an Infrastructure Priority Score that gives policymakers a transparent, ranked view of where to act first — rather than another unranked reporting app.
 
-🛠️ Tech Stack
+Tech Stack
+<table> <tr> <td><b>Security</b></td> <td> <img src="https://img.shields.io/badge/SOC-1F2937?style=for-the-badge" /> <img src="https://img.shields.io/badge/SIEM-374151?style=for-the-badge" /> <img src="https://img.shields.io/badge/IDS%2FIPS-4B5563?style=for-the-badge" /> <img src="https://img.shields.io/badge/Honeypots-111827?style=for-the-badge" /> <img src="https://img.shields.io/badge/Threat_Detection-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=white" /> </td> </tr> <tr> <td><b>AI / ML</b></td> <td> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Sentence--Transformers-8E44AD?style=for-the-badge" /> <img src="https://img.shields.io/badge/Spiking_Neural_Networks-6C5CE7?style=for-the-badge" /> <img src="https://img.shields.io/badge/Isolation_Forest_%2F_DBSCAN-FF6F00?style=for-the-badge" /> </td> </tr> <tr> <td><b>Cloud & Infra</b></td> <td> <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </td> </tr> <tr> <td><b>Also Familiar With</b></td> <td> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> </td> </tr> </table>
+GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rakesh-b002&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakesh-b002&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
+Open to Collaborate
 
-🔐 Cybersecurity
-
-
-
-
-
-
-
-🤖 AI / Machine Learning
-
-
-
-
-
-
-☁️ Cloud & Tools
-
-
-
-
-
-
-🏆 Achievements & Highlights
-
-Add your verified awards, certifications, hackathon ranks,
-publications, or competition results here.
-
-🛡️ Built multiple hands-on cybersecurity projects spanning SOC,
-SIEM, IDS and honeypots
-
-⚡ Explored SNN-based intrusion detection with an
-energy-efficiency focus
-
-🤖 Developing an AI-based honeypot attack detection system
-
-☁️ Built a practical Azure-based security monitoring/SOC
-environment
-
-🔬 Interested in converting cybersecurity projects into research
-and real-world solutions
-
-📌 Add your strongest achievements here
-
-🥇 [Hackathon / Competition] --- [Position / Award]
-
-📜 [Certification] --- [Issuing Organization]
-
-📄 [Research Paper / Publication] --- [Conference / Journal]
-
-🏅 [Award / Recognition] --- [Details]
-
-📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>{=html}
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>{=html}
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />{=html}
-
-</p>
-
-🧩 Featured Areas
-
-Cybersecurity
-├── SOC / SIEM
-├── Network Security
-├── IDS / IPS
-├── Honeypots
-└── Threat Detection
-
-AI + Security
-├── Machine Learning
-├── Deep Learning
-├── Spiking Neural Networks
-└── AI Security
-
-Cloud
-└── Microsoft Azure
-
-🔬 What I'm Interested In
-
-I'm particularly interested in problems where AI meets defensive
-security:
-
-🧠 Intelligent threat detection
-
-🤖 Security for AI agents and AI systems
-
-🪤 Adaptive honeypots
-
-🌐 Network intrusion detection
-
-⚡ Energy-efficient security systems
-
-☁️ Cloud security monitoring
-
-🔎 Attacker behavior analysis
-
-🚨 SOC automation
-
-📈 Currently Learning
-
-[████████████████░░░░] AI/ML for Cybersecurity
-[███████████████░░░░░] Network Security
-[██████████████░░░░░░] Cloud Security
-[████████████░░░░░░░░] Security Research
-
-💡 My Approach
-
-I like learning by building.
-
-Instead of stopping at:
-
-"I know how an IDS works."
-
-I try to move toward:
-
-"Can I build one, test it, measure it, find its weaknesses, and
-improve it?"
-
-That mindset is what drives most of my projects.
-
-🌱 Open to Collaborate
-
-I'm interested in working with people on:
-
-Cybersecurity × AI/ML × Research × Real-world Problems
-
-If you're building something interesting in this space, feel free to
-reach out.
-
-📫 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">{=html}
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>{=html}
-</a>{=html} <a href="mailto:rakesh.122605@gmail.com">{=html}
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>{=html}
-</a>{=html}
-
-</p>
-
-⚡ Fun Fact
-
-I started with cybersecurity concepts --- now I keep trying to turn
-them into working projects. 🔐
-
-<p align="center">
-
-<i>{=html}"Build. Break. Learn. Secure."</i>{=html}
-
-</p>
+Interested in working with others on cybersecurity × AI/ML projects with real research or real-world potential — reach out if you're building something in that space.
