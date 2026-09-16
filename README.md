@@ -2,7 +2,7 @@
 
 **Cybersecurity Student · Building AI-Driven Defensive Security Tools**
 
-Second-year B.Tech student specializing in Cybersecurity at Dayananda Sagar University, Bengaluru. I work at the intersection of **network security, threat detection, and applied ML**, focusing on making defensive tools more adaptive and easier to understand — not just "it flagged an attack," but *why*.
+B.Tech student specializing in Cybersecurity at Dayananda Sagar University, Bengaluru. I work at the intersection of **network security, threat detection, and applied ML**, focusing on making defensive tools more adaptive and easier to understand — not just "it flagged an attack," but *why*.
 
 📫 **rakesh.122605@gmail.com** · 🔗 [github.com/Rakesh-b002](https://github.com/Rakesh-b002)
 
